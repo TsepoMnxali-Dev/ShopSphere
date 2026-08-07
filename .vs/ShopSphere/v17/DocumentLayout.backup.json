@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tsepo\\OneDrive\\Desktop\\E-commerce fullstack project\\ShopSphere\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FDA7B1-7936-41D0-807A-9D6438080F3F}|ShopSphere\\ShopSphere.csproj|c:\\users\\tsepo\\onedrive\\desktop\\e-commerce fullstack project\\shopsphere\\shopsphere\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FDA7B1-7936-41D0-807A-9D6438080F3F}|ShopSphere\\ShopSphere.csproj|solutionrelative:shopsphere\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\tsepo\\OneDrive\\Desktop\\E-commerce fullstack project\\ShopSphere\\ShopSphere\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "ShopSphere\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\tsepo\\OneDrive\\Desktop\\E-commerce fullstack project\\ShopSphere\\ShopSphere\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "ShopSphere\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T07:27:08.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
