@@ -19,7 +19,7 @@ The main focus of this project was to showcase my understanding of **backend dev
 ## 🎥 Demo
 
 <p align="center">
-  <a href="https://www.dropbox.com/scl/fi/upf7cpb86rn0dontlo8bq/CoolRides-Vehicle-Manufacturing-System-Demo.mov?rlkey=vl66r4flgdgetgbosdjczuyzl&st=lq0jha0l&dl=0">
+  <a href="https://www.dropbox.com/scl/fi/r834n6mgo4ggmf5g0wk67/ShopSphere-E-Commerce-System.mp4?rlkey=8js1eyufp2wvmhkvr6cd65gjy&st=6o52uxgg&dl=0">
     ▶️ <strong>Watch the CoolRides Demo</strong>
   </a>
 </p>
