@@ -14,6 +14,15 @@ The main focus of this project was to showcase my understanding of **backend dev
 
 > **Note:** Authentication and authorization were not implemented in this version, as the focus was on the core backend functionality.
 
+![image alt](https://github.com/TsepoMnxali-Dev/ShopSphere/blob/f9bd6dcd90bdc3161565bf9e8c4f6921cb0dc1bd/ShopSphere%20BackEnd.png)
+
+## 🎥 Demo
+
+<p align="center">
+  <a href="https://www.dropbox.com/scl/fi/upf7cpb86rn0dontlo8bq/CoolRides-Vehicle-Manufacturing-System-Demo.mov?rlkey=vl66r4flgdgetgbosdjczuyzl&st=lq0jha0l&dl=0">
+    ▶️ <strong>Watch the CoolRides Demo</strong>
+  </a>
+</p>
 ---
 
 ## 🛠️ Technologies
