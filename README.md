@@ -23,7 +23,7 @@ The main focus of this project was to showcase my understanding of **backend dev
     ▶️ <strong>Watch the CoolRides Demo</strong>
   </a>
 </p>
----
+
 
 ## 🛠️ Technologies
 
